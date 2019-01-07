@@ -1,4 +1,5 @@
 macos_sources = glob([
+  'src/base/ftmac.c',
 ])
 
 windows_sources = glob([
